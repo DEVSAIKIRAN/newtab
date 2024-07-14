@@ -1,0 +1,46 @@
+h1{
+    color: blue;
+}
+body{
+    background-color: rgb(0, 0, 0);
+    border: 0cm;
+}
+.sreach{
+    cursor:pointer;
+    border-radius: 2em;
+    height:2em ;
+    width: 30em;
+    background-color:rgb(0, 162, 232);
+    transform: rotate(right);
+    border:none;
+    color: rgb(0, 0, 0);
+}
+.pp{
+    color: rgb(116, 122, 132);
+    cursor: pointer;
+}
+.sumit{
+    border-radius: 2em;
+    height: 2em;
+    width: 5em;
+    background-color: rgb(0, 162, 232);
+    border: none;
+}
+.youtube{
+    border-radius: 2em;
+    background-color: rgb(7, 7, 7);
+    color: azure;
+   
+}
+.github{
+    border-radius: 2em;
+    background-color: #000000;
+    color: azure;
+    
+}
+.beebom{
+    border-radius: 2em;
+    background-color: #000000;
+    color: aliceblue;
+    
+}
